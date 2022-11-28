@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "text": "بسم الله",
-      "day": "انهردا",
-      "reminder": false,
+      "text": "this is task",
+      "day": "monday",
+      "reminder": true,
       "id": 1
     }
   ]
